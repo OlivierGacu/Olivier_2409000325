@@ -1,0 +1,29 @@
+#foo{
+    color: aquamarine;
+}
+
+.baz{
+    color: blue;
+}
+
+h1{
+    color: rgb(221, 15, 15);
+}
+h2{
+    color: blueviolets;
+}
+h6{
+    color: rgb(204, 204, 5);
+}
+button{
+    width: 400px;
+    height: 40px;
+    font-size: 24px;
+    background-color: green;
+}
+button:hover{
+    background-color: aquamarine;
+}
+a{
+    text-decoration: none;
+}
